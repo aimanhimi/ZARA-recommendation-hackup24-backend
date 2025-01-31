@@ -1,0 +1,9 @@
+/venv
+__pycache__
+Github.7z
+resize
+featuresKV.json
+featuresKW.json
+featuresMV.json
+featuresMW.json
+featuresWW.json
